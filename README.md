@@ -34,6 +34,8 @@ This Movie Recommendation System demonstrates the power of combining **User-Base
 Moving forward, this project provides a strong foundation for implementing more advanced features, such as real-time recommendations and hybrid models that leverage both user preferences and item attributes.
 
 ### Demo Video
+
 ![2024-05-25 23-29-17 (2)](https://github.com/user-attachments/assets/a31cb2ce-b945-43fa-a793-8bb3a02d721e)
+
 Click the image above to view a demo of the project in action.
 
